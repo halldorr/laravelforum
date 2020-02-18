@@ -16,6 +16,13 @@
         "lodash": "^4.17.13",
         "resolve-url-loader": "^2.3.1",
         "sass": "^1.15.2",
-        "sass-loader": "^8.0.0"
+        "sass-loader": "^8.0.0",
+        "vue-template-compiler": "^2.6.11"
+    },
+    "dependencies": {
+        "moment": "^2.24.0",
+        "pusher-js": "^5.1.1",
+        "vue-router": "^3.1.5",
+        "vue-simple-spinner": "^1.2.10"
     }
 }
